@@ -1,14 +1,14 @@
 // ==UserScript==
 // @name         知乎设置
 // @namespace    http://tampermonkey.net/
-// @version      7.7
+// @version      7.8
 // @description  知乎深色/浅色主题切换 + 多色彩主题预设 + 悬停预览 + AI 总结卡片移除（统计脚本拦截已交由 uBlock Origin）
 // @author       sfw222
 // @match        https://www.zhihu.com/*
 // @match        https://zhuanlan.zhihu.com/*
 // @icon         https://cdn.jsdelivr.net/npm/remixicon@4.9.1/icons/Logos/zhihu-line.svg
-// @updateURL    https://raw.githubusercontent.com/sfw222/zhihu-config/main/zhihu-config.user.js
-// @downloadURL  https://raw.githubusercontent.com/sfw222/zhihu-config/main/zhihu-config.user.js
+// @updateURL    https://raw.githubusercontent.com/sfw222/my-scripts-and-plugins/main/zhihu-config.user.js
+// @downloadURL  https://raw.githubusercontent.com/sfw222/my-scripts-and-plugins/main/zhihu-config.user.js
 // @grant        GM_getValue
 // @grant        GM_setValue
 // @grant        GM_registerMenuCommand
